@@ -23,4 +23,8 @@ const squareArr = (arr) => {
   }
   console.log(newArr);
 };
-squareArr([2, 4, 8]);
+
+// Q4 - second answer
+// let squareArr = (arr) => arr.map((i) => i ** 2);
+
+console.log(squareArr([2, 4, 8]));
